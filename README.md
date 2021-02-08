@@ -1,11 +1,3 @@
-[TOC]
-
-# Data Structure : Assignment 4 Report 
-
-Name : **김소랑(Kim Solang, E-Mail : solangii@unist.ac.kr)**
-
-Link : [Report](https://gitlab.com/unist_cse221_ds_spring_2020/uni20181041/-/blob/master/assignment4/Assignment-4-report-20181041.md), [MinHeap.h](https://gitlab.com/unist_cse221_ds_spring_2020/uni20181041/-/blob/master/assignment4/min_heap.h), [lfu.h](https://gitlab.com/unist_cse221_ds_spring_2020/uni20181041/-/blob/master/assignment4/lfu.h)
-
 ## 1. Code Description
 
 ### 1) MinHeap.h
