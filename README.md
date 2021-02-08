@@ -1,4 +1,8 @@
-## 1. Code Description
+```
+Course project of CSE221 Data Structures, UNIST
+```
+
+## 1. Code Description (LFU Only)
 
 ### 1) MinHeap.h
 
